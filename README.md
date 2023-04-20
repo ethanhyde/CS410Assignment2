@@ -9,3 +9,5 @@ of the flashing increases, this would encourage the player that time if of the e
 3) For particle effects, I created 3 spheres of particles in order to cover most of the map. These create a dreamy atmosphere and reminded me
 of dust in the air, which works well with the haunted house environment. As the user gets closer to the game ending, the particles become orange, larger, 
 and more dense. 
+
+I completed this assignment without the assistance of group members.
